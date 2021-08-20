@@ -1,4 +1,4 @@
-name: 'Build RPM Centos7 📦'
+name: 'Build RPM Zentos7'
 description: 'Build RPM package for on Cenots7. Supports RPM macros with --define.'
 author: 'matijavibe - Matija Milcic'
 inputs:
