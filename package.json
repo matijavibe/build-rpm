@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antikythera/build-rpm.git"
+    "url": "git+https://github.com/matijavibe/build-rpm.git"
   },
   "keywords": [
     "actions",

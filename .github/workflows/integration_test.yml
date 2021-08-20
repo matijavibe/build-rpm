@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Antikythera/build-rpm@latest
+      - uses: matijavibe/build-rpm@latest
         id: build_rpm
         with:
           spec_file: rpm_assets/hello_world.spec
